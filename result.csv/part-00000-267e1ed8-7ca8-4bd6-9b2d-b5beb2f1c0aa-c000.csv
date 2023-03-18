@@ -1,0 +1,9 @@
+category,payment_method,avg_price,min_price,max_price,count
+Food & Beverage,Credit Card,15.731839861915224,5.23,26.15,5250
+Cosmetics,Credit Card,124.07548461539456,40.66,203.3,5336
+Books,Credit Card,45.217747271060944,15.15,75.75,1696
+Clothing,Credit Card,895.298957687029,300.08,1500.4,12025
+Toys,Credit Card,107.82304288246989,35.84,179.2,3548
+Technology,Credit Card,3186.5373645179693,1050.0,5250.0,1753
+Souvenir,Credit Card,35.243016371215134,11.73,58.65,1770
+Shoes,Credit Card,1810.6451507748734,600.17,3000.85,3553
